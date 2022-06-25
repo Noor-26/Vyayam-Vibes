@@ -1,0 +1,19 @@
+.summary-container{
+    background-image: url(../../../Images/background-2.PNG);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+.card_counters{
+    font-size: 69px;
+    font-weight: 600;
+    line-height: 1;
+}
+.card_col{
+    background-color: #fff;
+    margin: 30px 15px;
+    padding:  25px;
+    border-radius: 10px;
+    width: 36rem;
+}
