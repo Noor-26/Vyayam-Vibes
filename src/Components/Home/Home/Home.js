@@ -1,4 +1,5 @@
 import React from 'react'
+import Benefit from '../Benefits/Benefit'
 import Details from '../Details/Details'
 import Header from '../Header/Header'
 import Summary from '../Summary/Summary'
@@ -9,6 +10,7 @@ function Home() {
       <Header/>
       <Details/>
       <Summary/>
+      <Benefit/>
     </div>
   )
 }
