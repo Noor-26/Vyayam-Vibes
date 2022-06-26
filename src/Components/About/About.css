@@ -1,0 +1,36 @@
+.about_icon{
+    font-size: 30px;
+    transform: rotate(135deg);
+    color: #ce297e;
+    transition: all 0.2s;
+}
+.about_icon:hover{
+    font-size: 32px;
+}
+.about_container{
+    background-image: url('../../Images/background-3.PNG');
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    height: 100vh;
+}
+.about_text{
+    width: 35%;
+}
+.about_text-container{
+    padding: 200px 80px;
+
+}
+.about_links-icons{
+    color: white;
+    margin: 0 5px;
+    background-color: #ff3a6f;
+    padding: 12px 13px;
+    border-radius: 50%;
+}
+.about_links-icons:hover{
+    color: white;
+    opacity: .8;
+}
+

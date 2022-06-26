@@ -16,6 +16,8 @@ body{
    transform-origin: center;
    -webkit-transform: rotateY(0deg);
    transform: rotateY(0deg);
-   position: relative;
+   position: absolute;
+   width: 100%;
+   top: 0;
    z-index: 11;
 }
