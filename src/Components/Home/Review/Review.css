@@ -1,0 +1,36 @@
+.head_container{
+    background-image: url('../../../Images/quote-img.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 10em;
+}
+.review_header{
+    font-size: 2.8rem;
+    font-family: 'Playfair Display', serif;
+    width: 40%;
+    text-align: center;
+   
+}
+.review-container{
+    gap: 0 10px;
+    display: flex;
+    padding: 0 8rem;
+    
+    
+}
+.review-card{
+    box-shadow: 0px 5px 20px 0px rgb(0 0 0 / 10%); 
+    border-radius: 15px;
+    padding: 30px 40px;
+    transition: all 0.3s;
+}
+.review-icon{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    max-width: none;
+}
+.review-card:hover{
+    transform: translateY(-10px);
+}
