@@ -34,3 +34,32 @@
     opacity: .8;
 }
 
+.about_img{
+
+    width: 200px;
+    border-radius: 50%;
+    padding-bottom:  10px;
+}
+.instructor_container{
+    position: relative;
+    bottom: 100px;
+}
+.img_title{
+    font-family: 'Playfair Display', serif;
+}
+.mission_head{
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+
+}
+.mission_text{
+    width: 68%;
+}
+.mission_container{
+    background-color: #fff;
+    background-image: url(https://vyayamvibes.in/vyayamvibes_media/2018/10/bg-logo-free-img-2.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 80vh;
+}
