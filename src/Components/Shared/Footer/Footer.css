@@ -1,0 +1,16 @@
+.footer-text{
+    width: 45%;
+    text-align: end;
+    height: 78vh;
+    
+}
+.footer-container{
+    background-image: url('../../../Images/footer_img.PNG');
+    height: 90vh;
+    margin-top: 15vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+ 
+}
