@@ -7,6 +7,12 @@
     position: absolute;
     left: 0;
     border-bottom: 2px solid ;
-    width: 10%;
+    width: 8%;
     height: 40px;
+    color: #ff3a6f;
+   
+}
+.article_header{
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
 }
