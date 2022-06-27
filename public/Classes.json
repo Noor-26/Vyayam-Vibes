@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "icon":"https://vyayamvibes.in/vyayamvibes_media/2021/03/hatha-yoga-2.png",
+        "title":"Hatha Yoga",
+        "description":"It’s purpose is to relief physical, environmental, spiritual pain and to create an absolute balance of the interacting activities and processes of the physical body, mind and energy."
+    },
+    {
+        "id": 2,
+        "icon":"https://vyayamvibes.in/vyayamvibes_media/2021/03/vinyasa-yoga-2.png",
+        "title":"Vinyasa Yoga",
+        "description":"Vinyasa yoga keeps you moving almost constantly, which helps you to burn more calories and boost your metabolism than a regular hatha yoga class. Studies have shown that people who practiced yoga."
+    },
+    {
+        "id": 3,
+        "icon":"https://vyayamvibes.in/vyayamvibes_media/2021/03/kundalini-yoga-2.png",
+        "title":"Kundalini Yoga",
+        "description":"Kundalini yoga helps in stress and anxiety relief. It improves cognitive function. It’s believed that as your Kundalini energy awakens, you become more spiritually connected with yourself and others."
+    },
+    {
+        "id": 4,
+        "icon":"https://vyayamvibes.in/vyayamvibes_media/2021/03/intuitive-yoga-2.png",
+        "title":"Intuitive Yoga",
+        "description":"The program empowers children with sharper perception, alertness, improved learning skills, decision-making skills and removes the fear of the unknown. Regular practice helps children to develop."
+    },
+    {
+        "id": 5,
+        "icon":"https://vyayamvibes.in/vyayamvibes_media/2021/03/aroma-yoga-2.png",
+        "title":"Aroma Yoga",
+        "description":"Aroma yoga helps in managing pain. Improve sleep quality. Reduce stress, agitation and anxiety. Soothe sore joints . Treat headaches and migraines. Alleviate side effects of chemotherapy."
+    },
+    {
+        "id": 6,
+        "icon":"https://vyayamvibes.in/vyayamvibes_media/2021/03/yoga-slow-2.png",
+        "title":"Slow Yoga",
+        "description":"Practicing Slow Flow Yoga improves flexibility and strength. The asana and poses stretch the body, muscle and soft tissues i.e. the tendons, ligaments, etc. When you are working out at a stretch."
+    },
+    {
+        "id": 7,
+        "icon":"https://vyayamvibes.in/vyayamvibes_media/2021/03/intuitive-yoga-2.png",
+        "title":"Zumba",
+        "description":"It is great for weight loss, boosts heart health, tones the entire body and moreover it’s fun, the more you enjoy your exercise routine the more likely you are to stick with it."
+    },
+    {
+        "id": 8,
+        "icon":"https://vyayamvibes.in/vyayamvibes_media/2021/03/aroma-yoga-2.png",
+        "title":"Aerobics",
+        "description":"Aerobics improves cardiovascular health, lowers blood pressure, regulate sugar level, reduces chronic pain, etc."
+    },
+    {
+        "id": 9,
+        "icon":"https://vyayamvibes.in/vyayamvibes_media/2021/03/kundalini-yoga-2.png",
+        "title":"Meditation",
+        "description":"Meditation promotes emotional health, may help fight addictions, can generate kindness, enhance self-awareness, etc."
+    }
+]

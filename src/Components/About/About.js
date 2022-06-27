@@ -42,7 +42,7 @@ Believe customer satisfaction as our ultimate goal.</p>
 </div>
 <div class="card-body text-center mx-auto mission_container ">
   <img src="https://vyayamvibes.in/vyayamvibes_media/elementor/thumbs/divider-free-img-2-peguikuhmc41d6jcee5f2wnfv3614e4ox8zjkdbfdm.png" class="" alt=""/>
-    <p class="mission_head mx-auto  ">MISSION</p>
+    <p class="mission_head mx-auto">MISSION</p>
     <p className='mb-5 mission_text mx-auto'>Our mission is to provide a genuine and sustainable yoga practice that will evolve the physical and emotional health of our Society. We want to spread the light of awareness among the People and help them build a stress free mind along with disease free body. Our ultimate aim is to make people experience the Truth, by realizing the true nature of themselves and the Universe. Then only one can become free from chain of cause and effect (karma) which brings us to earthly life again and Again. We are passionate about creating a space where every Body is a family. We also want to generate employment in the Country and encourage leadership quality.</p>
   </div>
         </div>

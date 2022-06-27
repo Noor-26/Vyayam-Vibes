@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "plan":"1 Day Plan",
+        "price": "250",
+        "details":["OPD session","Counselling session"]
+    },
+    {
+        "id":2,
+        "plan":"12 Days Plan",
+        "price": "2000",
+        "details":["OPD session","Counselling session","Lifestyle workshop","Diet plan"]
+    },
+    {
+        "id":3,
+        "plan":"1 Month Plan",
+        "price": "3000",
+        "details":["OPD session","Counselling session","Daily progress report","Lifestyle workshop","Diet plan"]
+    },
+    {
+        "id":4,
+        "plan":"3 Months Plan",
+        "price": "8250",
+        "details":["OPD session","Counselling session","Lifestyle workshop","Diet plan","Flat 5% off on our products"]
+    },
+    {
+        "id":5,
+        "plan":"6 Months Plan",
+        "price": "15000",
+        "details":["OPD session","Counselling session","Lifestyle workshop","Diet plan","Flat 10% off on our products"]
+    },
+    {
+        "id":6,
+        "plan":"1 Year Plan",
+        "price": "65000",
+        "details":["OPD session","Counselling session","Lifestyle workshop","Diet plan","Flat 15% off on our products","Knowledge session","Ayurveda session"]
+    }
+]

@@ -20,7 +20,7 @@ function Navber() {
           <Link to='/about' class="nav-link" href="#">About</Link>
         </li>
         <li class="nav-item">
-          <Link to='/classess' class="nav-link" >Classess</Link>
+          <Link to='/classes' class="nav-link" >Classes</Link>
         </li>
         <li class="nav-item">
           <Link class="nav-link" to='/publications'>Publications</Link>

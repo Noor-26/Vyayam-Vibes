@@ -1,0 +1,24 @@
+.classes_container{
+    background-image: url(https://vyayamvibes.in/vyayamvibes_media/2018/10/bg-logo-free-img-2.png);
+    background-position: center center;
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+    /* height: 100vh; */
+}
+.card_text{
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.package{
+    font-size: 15px;
+}
+li{
+    list-style: none;
+}
+.package_icon{
+    font-size: 19px;
+    color: #ff3a6f;
+}

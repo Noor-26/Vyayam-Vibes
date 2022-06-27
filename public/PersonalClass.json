@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "plan":"1 Day Plan",
+        "price": "500",
+        "details":["OPD session","Counselling session","Customized classes"]
+    },
+    {
+        "id":2,
+        "plan":"12 Days Plan",
+        "price": "4000",
+        "details":["OPD session","Counselling session","Customized classes","Daily progress report","Lifestyle workshop","Diet plan"]
+    },
+    {
+        "id":3,
+        "plan":"1 Month Plan",
+        "price": "8000",
+        "details":["OPD session","Counselling session","Customized classes","Daily progress report","Lifestyle workshop","Diet plan"]
+    },
+    {
+        "id":4,
+        "plan":"3 Months Plan",
+        "price": "22500",
+        "details":["OPD session","Counselling session","Customized classes","Daily progress report","Lifestyle workshop","Diet plan","Flat 5% off on our products"]
+    },
+    {
+        "id":5,
+        "plan":"6 Months Plan",
+        "price": "42000",
+        "details":["OPD session","Counselling session","Customized classes","Daily progress report","Lifestyle workshop","Diet plan","Flat 10% off on our products","1 free member pass"]
+    },
+    {
+        "id":6,
+        "plan":"1 Year Plan",
+        "price": "65000",
+        "details":["OPD session","Counselling session","Customized classes","Daily progress report","Lifestyle workshop","Diet plan","Flat 10% off on our products","4 free member pass","Free naadi pareeksha","Knowledge session","Ayurveda session"]
+    }
+]
