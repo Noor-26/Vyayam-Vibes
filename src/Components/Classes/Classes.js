@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import DetailCard from '../Home/Details/DetailCard'
 import Wave from '../Shared/Wave/Wave'
 import './Classes.css'
+import Faq from './Faq/Faq'
 import GroupClass from './GroupClass/GroupClass'
 import PersonalClass from './PersonalClass/PersonalClass'
 function Classes() {
@@ -42,6 +43,7 @@ function Classes() {
 </div>
 <PersonalClass/>
 <GroupClass/>
+<Faq/>
     </div>
   )
 }

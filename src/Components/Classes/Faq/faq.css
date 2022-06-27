@@ -1,0 +1,12 @@
+.faq_header{
+    font-family: 'Playfair Display', serif;
+
+}
+.article_header::after{
+    content: '';
+    position: absolute;
+    left: 0;
+    border-bottom: 2px solid ;
+    width: 10%;
+    height: 40px;
+}
