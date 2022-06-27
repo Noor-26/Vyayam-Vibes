@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import { Helmet } from 'react-helmet'
 import DetailCard from '../Home/Details/DetailCard'
 import Wave from '../Shared/Wave/Wave'
 import './Classes.css'
@@ -15,6 +16,9 @@ function Classes() {
   return (
 
     <div>
+         <Helmet>
+      <title>Classes - Vyayam Vibes</title>
+      </Helmet>
     <div class="card-body text-center mx-auto landing_container d-block mt-5 pt-5 ">
   <img src="https://vyayamvibes.in/vyayamvibes_media/elementor/thumbs/divider-free-img-2-peguikuhmc41d6jcee5f2wnfv3614e4ox8zjkdbfdm.png" class="" alt=""/>
     <p className='public_text mt-3'>Classes</p>
@@ -44,6 +48,7 @@ function Classes() {
 <PersonalClass/>
 <GroupClass/>
 <Faq/>
+
     </div>
   )
 }

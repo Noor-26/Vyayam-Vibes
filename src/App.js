@@ -7,7 +7,6 @@ import Home from './Components/Home/Home/Home';
 import Publications from './Components/Publications/Publications';
 import Footer from './Components/Shared/Footer/Footer';
 import Navber from './Components/Shared/Navber/Navber';
-
 function App() {
   return (
     <div className="App">

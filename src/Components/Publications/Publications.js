@@ -2,10 +2,14 @@ import React from 'react'
 import Wave from '../Shared/Wave/Wave'
 import './Publications.css'
 import { FaShoppingBasket } from 'react-icons/fa';
+import { Helmet } from 'react-helmet';
 
 function Publications() {
   return (
     <div  className='d-block'> 
+      <Helmet>
+      <title>Publications - Vyayam Vibes</title>
+      </Helmet>
   <div class="card-body text-center mx-auto landing_container d-block mt-5 pt-5 ">
   <img src="https://vyayamvibes.in/vyayamvibes_media/elementor/thumbs/divider-free-img-2-peguikuhmc41d6jcee5f2wnfv3614e4ox8zjkdbfdm.png" class="" alt=""/>
     <p className='public_text mt-3'>Publications</p>

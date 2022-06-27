@@ -1,0 +1,24 @@
+.contact_container{
+    background-color: #f7f7f7;
+    position: relative;
+}
+.contact_container-{
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.font{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+}
+.contact_text{
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+.require{
+    color: #ff3a6f;
+}
+.contact_links{
+position: relative;
+top: 350px;
+}
