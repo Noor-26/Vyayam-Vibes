@@ -3,7 +3,7 @@ import React from 'react'
 function ReviewCard(props) {
     const {name,review,img,} = props.review
   return (
-    <div className='review-card '>
+    <div className='review-card ' >
         <p>{review}</p>
         <div className='d-flex align-items-center'>
     <div>

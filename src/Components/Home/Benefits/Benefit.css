@@ -19,3 +19,9 @@
 li{
     font-size: 15px;
 }
+
+@media (max-width: 767px){
+.benefit_container{
+  padding: 0;
+} 
+}

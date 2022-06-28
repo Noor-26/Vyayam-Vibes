@@ -28,10 +28,10 @@ function Review() {
     ]
   return ( 
     <div>
-        <div className=' mx-auto head_container'>
+        <div className=' mx-auto head_container' >
         <p class="review_header mx-auto   ">WHAT MY CLIENTS​​ SAY ABOUT ME</p>
         </div>
-        <div className=' review-container  mx-auto'>
+        <div className=' review-container  mx-auto' data-aos="zoom-in-up"   data-aos-duration="1000">
             {
                 reviews.map(review => <ReviewCard key={review.id} review={review}/>)
             }

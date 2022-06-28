@@ -4,11 +4,13 @@ body{
     line-height: 1.85714285714286;
     margin: 0;
     overflow-x: hidden;
+    box-sizing: border-box;
     padding: 0;
 }
 *{
     margin: 0;
     padding: 0;
+    
 }
 .elementor-shape-fill {
     fill: #fff; 

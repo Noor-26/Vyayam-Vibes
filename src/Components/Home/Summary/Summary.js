@@ -9,7 +9,7 @@ function Summary() {
         <div className='container'>
         <h1 className='uppercase card-text_header pb-5 '>Numbers Speak</h1>
         <p>I’ve given up trying to reassure . ll let the numbers speak for themselves.</p>
-        <div class="d-flex ">
+        <div class="d-flex summary_container">
         <div class="card_col">
     <div class=" text-center h-100">
       <div class="card-body">

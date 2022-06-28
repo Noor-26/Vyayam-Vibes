@@ -11,20 +11,20 @@ function About() {
        <meta charSet="utf-8" />
       <title>About - Vyayam Vibes</title>
       </Helmet>
-        <div class="card-body text-center mx-auto landing_container d-block mt-5 pt-5 ">
+        <div class="card-body text-center mx-auto landing_container d-block mt-5 pt-5 mb-3">
   <img src="https://vyayamvibes.in/vyayamvibes_media/elementor/thumbs/divider-free-img-2-peguikuhmc41d6jcee5f2wnfv3614e4ox8zjkdbfdm.png" class="" alt=""/>
     <p className='public_text mt-3'>About Me</p>
-    <p class="Public_header text-font mx-auto  ">MY WAY OF HEALTH & LIFE</p>
-    <p className='mb-5'>‘You be you’ message is a call to action , a remainder that we have work to do in this life.</p>
-    <a href='#'><FaLocationArrow className='about_icon'/></a>
+    <p class="Public_header text-font mx-auto  p-1 ">MY WAY OF HEALTH & LIFE</p>
+    <p className='mb-5 p-1'>‘You be you’ message is a call to action , a remainder that we have work to do in this life.</p>
+    <a href='#scroll'><FaLocationArrow className='about_icon'/></a>
   </div>
         
       <div className='about_container h-100'>
       <Wave tabindex="1"/>
 <div className='about_text-container'>
 
-            <h1 className='card-text_header'>VYAYAM VIBES</h1>
-            <p className='py-5 about_text'>Vyayam vibes was established in the year 2020. We are
+            <h1 className='card-text_header p-1' id='scroll'>VYAYAM VIBES</h1>
+            <p className='py-5 about_text p-1'>Vyayam vibes was established in the year 2020. We are
 The top players in the category meditation classes in
 Meerut. We act as a one-stop destination servicing
 Customers both local and from other parts of

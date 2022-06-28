@@ -2,10 +2,7 @@
     background-color: #f7f7f7;
     position: relative;
 }
-.contact_container-{
-    overflow: hidden;
-    box-sizing: border-box;
-}
+
 .font{
     font-family: 'Playfair Display', serif;
     font-size: 50px;
@@ -15,10 +12,35 @@
     font-weight: bold;
     font-size: 1.3rem;
 }
+
 .require{
     color: #ff3a6f;
 }
 .contact_links{
 position: relative;
-top: 350px;
+top: 30px;
+}
+@media (max-width:768px) {
+  
+    .contact_card{
+        height: 200vh;
+    }
+    .contact_container-2{
+     
+        margin: 0 auto;
+    }
+}
+@media (max-width:750px) {
+    .contact_text{
+        font-size: 1rem;
+    }
+    .font{
+        font-size: 30px;
+    }
+    
+}
+.map{
+    position: relative;
+    height: 200px;
+    margin-top: 30px;
 }

@@ -42,3 +42,27 @@
   .header_btn:active {
     transform: translateY(-1px);
   }
+  .text-font{
+    color: black;
+    font-size: 4rem;
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
+}
+
+@media (max-width: 921px){
+  .text-font {
+    font-size: 40px;
+}
+}
+@media (max-width: 776px){
+  .text-container{
+
+    width: 90%;
+    word-wrap: break-word;
+}
+}
+@media (max-width: 544px){
+  .text-font {
+    font-size: 34px;
+}
+}

@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import About from './Components/About/About';
@@ -7,7 +8,13 @@ import Home from './Components/Home/Home/Home';
 import Publications from './Components/Publications/Publications';
 import Footer from './Components/Shared/Footer/Footer';
 import Navber from './Components/Shared/Navber/Navber';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 function App() {
+ useEffect(() => {
+  AOS.init();
+ }, [])
+ 
   return (
     <div className="App">
       <Navber/>

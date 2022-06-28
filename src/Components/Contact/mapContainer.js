@@ -3,15 +3,17 @@ import { Map, GoogleApiWrapper, Marker } from 'google-maps-react';
 class mapContainer extends Component {
 render(){
     return (
-        <Map
+      <div className='map'>
+          <Map
         google={this.props.google}
         zoom={18}
-        style={{width: '500px',height: '300px'}}
+        style={{width: '100%',height: '100%' }}
         initialCenter={{ lat: 28.9890568, lng: 77.7272113}}
       
       >
         <Marker position={{ lat: 28.9890568, lng: 77.7272113}} />
       </Map>
+      </div>
     )
 }
 }

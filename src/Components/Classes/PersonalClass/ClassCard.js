@@ -7,7 +7,7 @@ function ClassCard({slot}) {
         <p className='card_text'>{plan}</p>
         <strong className='package mb-4'>Package: ₹{price}</strong>
         <ul className='mt-5'>
-            {details.map(detail => <li  > <BsCheckLg className='me-3 package_icon'/>{detail}</li>)}
+            {details.map(detail => <li className='classes'  > <BsCheckLg className='me-3 package_icon'/>{detail}</li>)}
         </ul>
     </div>
   )

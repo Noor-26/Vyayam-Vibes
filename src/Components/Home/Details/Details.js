@@ -11,11 +11,11 @@ function Details() {
     }, [])
     
   return (
-    <div className='container my-5 details-container'>
+    <div className='container py-5 details-container'>
         <div className='container'>
-        <div class="text-center" >
+        <div class="text-center pt-5"  data-aos="zoom-in">
   <img src="https://vyayamvibes.in/vyayamvibes_media/elementor/thumbs/divider-free-img-2-peguikuhmc41d6jcee5f2wnfv3614e4ox8zjkdbfdm.png" class="" alt=""/>
-  <div class="card-body text-center w-50 mx-auto">
+  <div class="card-body text-center   mx-auto">
     <p class="card-text_header mx-auto  ">DIVE IN THE WORLD OF HEALTH & FITNESS</p>
     <p className='mb-5'>We believe in the strength of connection, connection of your mind with your soul.</p>
   </div>

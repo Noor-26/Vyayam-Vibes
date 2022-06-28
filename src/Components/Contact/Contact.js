@@ -34,9 +34,9 @@ function Contact() {
 <img src="https://vyayamvibes.in/vyayamvibes_media/elementor/thumbs/divider-free-img-2-peguikuhmc41d6jcee5f2wnfv3614e4ox8zjkdbfdm.png" class="" alt=""/>
 
 </div>
-<div className='card p-5 mt-5 '>
+<div className='card contact_card p-5 mt-5 '>
 
-    <div className='row row-cols-2'>
+    <div className='row row-cols-1 row-cols-md-2'>
       <div>
       <p className='contact_text'>Ask Me Your Queries</p>
       <form onSubmit={handleSubmit(onSubmit)}>

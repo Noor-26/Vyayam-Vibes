@@ -22,3 +22,21 @@
     line-height: 1.85714285714286;
 
 }
+@media (max-width: 544px){
+
+    h2, .card-text_header {
+        font-size: 25px;
+    }
+    .details_text{
+        width: 100%;
+    }
+}
+
+@media (max-width: 921px){
+h2, .card-text_header {
+    font-size: 25px;
+}
+.details_text{
+    width: 50%;
+}
+}

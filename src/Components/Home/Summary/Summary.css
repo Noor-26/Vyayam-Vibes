@@ -17,3 +17,8 @@
     border-radius: 10px;
     width: 36rem;
 }
+@media (max-width:700px) {
+    .summary_container{
+        flex-wrap: wrap;
+    }
+}
