@@ -10,22 +10,25 @@ import Footer from './Components/Shared/Footer/Footer';
 import Navber from './Components/Shared/Navber/Navber';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import { ToastContainer } from 'react-toastify';
+
 function App() {
- useEffect(() => {
-  AOS.init();
- }, [])
- 
+  useEffect(() => {
+    AOS.init();
+  }, [])
+
   return (
     <div className="App">
-      <Navber/>
+      <Navber />
       <Routes>
-        <Route path='/' element={<Home/>}/>
-        <Route path='/publications' element={<Publications/>}/>
-        <Route path='/contact' element={<Contact/>}/>
-        <Route path='/about' element={<About/>}/>
-        <Route path='/classes' element={<Classes/>}/>
+        <Route path='/' element={<Home />} />
+        <Route path='/publications' element={<Publications />} />
+        <Route path='/contact' element={<Contact />} />
+        <Route path='/about' element={<About />} />
+        <Route path='/classes' element={<Classes />} />
       </Routes>
-      <Footer/>
+      <Footer />
+      <ToastContainer />
     </div>
   );
 }

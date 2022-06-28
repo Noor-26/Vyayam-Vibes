@@ -1,11 +1,13 @@
 .about_icon{
-    font-size: 30px;
+    font-size: 33px;
     transform: rotate(135deg);
     color: #ce297e;
-    transition: all 0.2s;
+    position: relative;
+    transition:  0.3s linear;
+    padding: 2px;
 }
 .about_icon:hover{
-    font-size: 32px;
+    padding: 0px;
 }
 .about_container{
     background-image: url('../../Images/background-3.PNG');
